@@ -7,7 +7,7 @@
   "email":"duygu.altinok12@gmail.com",
   "url":"https://github.com/turkish-nlp-suite/turkish-spacy-models",
   "license":"cc-by-sa-4.0",
-  "spacy_version":">=3.4.2,<3.5.0",
+  "spacy_version":">=3.4.2,<3.8.4",
     "sources":[
     {
       "name":"UD Turkish BOUN",
